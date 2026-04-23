@@ -5,8 +5,7 @@ A Software-Defined Networking (SDN) experiment that implements static routing an
 ---
 
 ## 👤 Author
-- **Name:** Dhanush Sai Suprapadha
-- **SRN:** PES2UG24CS154
+- **Name:** Dhanush S S
 - **Course:** Computer Networks Laboratory — PES University
 
 ---
